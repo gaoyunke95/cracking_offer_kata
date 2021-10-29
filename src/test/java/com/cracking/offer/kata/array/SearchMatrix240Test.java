@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * *unit test cases should be written before doing actual implementation.
  *
- * this is the unit test cases for the SearchMatrix240.
+ * these are the unit test cases for the SearchMatrix240.
  *
  * 1. basic functionality test:
  *      a. contains the target value:
